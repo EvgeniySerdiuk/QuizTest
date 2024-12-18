@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835b59b933aa4903b77348700e0ff43e, type: 3}
+  m_Name: MatchConfig
+  m_EditorClassIdentifier: 
+  <CellViewPrefab>k__BackingField: {fileID: 8240355270510091425, guid: 96e0f180a4cf8784d94aca824023f610, type: 3}
+  <TitleTextFormat>k__BackingField: Find {0}
+  <LevelConfigs>k__BackingField:
+  - {fileID: 11400000, guid: 1321ab5af47643549b3aa1ccf3a2674b, type: 2}
+  - {fileID: 11400000, guid: b874ccf08b911cb4a924207809fefd09, type: 2}
+  - {fileID: 11400000, guid: e6ab256045bb7014092116fa4461483b, type: 2}
